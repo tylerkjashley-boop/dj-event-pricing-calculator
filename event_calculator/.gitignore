@@ -1,0 +1,12 @@
+# macOS junk
+.DS_Store
+
+# generated quotes
+quote_*.txt
+
+# backups
+*_backup.py
+dj_calculator_backup.py
+
+# unknown scratch file
+py
