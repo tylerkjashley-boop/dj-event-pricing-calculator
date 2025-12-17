@@ -1,5 +1,6 @@
 # macOS junk
 .DS_Store
+**/.DS_Store
 
 # generated quotes
 quote_*.txt
@@ -10,3 +11,4 @@ dj_calculator_backup.py
 
 # unknown scratch file
 py
+
